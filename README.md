@@ -68,10 +68,9 @@ This project is an event management system designed to streamline the planning a
   - `/organizers/{organizerId}`: GET (Retrieve organizer by ID), PATCH (Update organizer by ID), PUT (Update event by organizer)
 
 ## Contributors 🌟
-
+- [Manjari Rathore](https://github.com/ManjariRathore) 
 - [Vinay Reddy](https://github.com/VinnuReddy18) 
 - [Harshit Shah](https://github.com/harshit4311) 
-- [Manjari Rathore](https://github.com/ManjariRathore) 
 - [Spoorthy Madasu](https://github.com/Spoorthy1423) 
 - [Priyanshu Baul](https://github.com/nobitaN0bi) 
 - [Shivam Goel](https://github.com/ShivamGoelOSS) 
